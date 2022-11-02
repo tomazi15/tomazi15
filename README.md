@@ -1,5 +1,7 @@
 # Hi there I'm Tomazi! 👋
 
+<img width="100%" src="https://user-images.githubusercontent.com/13350450/199620054-bd0cdc51-f52c-4caa-9f26-1be7804d750b.gif">
+
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=tomazi15&show_icons=true&theme=radical" />
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
@@ -15,3 +17,5 @@
 - 🌱 I’m currently learning tailwind css 💨;
 - 💬 Ask me about anything, I am happy to help 📢;
 - 😄 Fun fact: I love Mountaineering 🏔 Martial Arts 🥋 and Stargazing 🔭
+
+
